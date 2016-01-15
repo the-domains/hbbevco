@@ -1,7 +1,7 @@
 name: HBBEVCO
 favicon: null
-layout_spectrum: 0.5402380379382521
-typography_spectrum: 0.9049268066883087
+layout_spectrum: 0
+typography_spectrum: 0.61625
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.7992059162352234
+    - '#b3b8bb'
+    - '#d6dcdc'
+    - '#000000'
+    - '#666f74'
+    - '#2e302f'
+  brandStrength: 0
   lightness: 0.9304185411892831
-  saturation: 0.5072372774593532
+  saturation: 0.4375
   rhythmicContrast: 0.9219226180575788
 purpose: []
